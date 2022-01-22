@@ -1,6 +1,6 @@
 # Source for various talks I've given, ordered from most recent
 
-* [Bandit on the loose! - Networking in Elixir demystified](ElixirConf%202021.pdf). ElixirConf 2021, 14 Oct 2021
+* [Bandit on the loose! - Networking in Elixir demystified](ElixirConf%202021.pdf). ElixirConf 2021, 14 Oct 2021. Video available [here](https://www.youtube.com/watch?v=ZLjWyanLHuk)
 
 * [Much Nerves - A Hello World For The Embedded World](2020-07-Toronto-Elixir-Night-Nerves.pdf). Toronto Elixir Night,
   30 July 2020 ([Event Page](https://www.meetup.com/TorontoElixir/events/271920946/)). Video available [here](https://www.youtube.com/watch?v=rLBcVpcO-qY)

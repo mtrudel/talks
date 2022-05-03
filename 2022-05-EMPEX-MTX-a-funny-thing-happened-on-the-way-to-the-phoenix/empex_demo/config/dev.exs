@@ -44,15 +44,15 @@ config :empex_demo, EmpexDemoWeb.Endpoint,
 # different ports.
 
 # Watch static and templates for browser reloading.
-config :empex_demo, EmpexDemoWeb.Endpoint,
-  live_reload: [
-    patterns: [
-      ~r"priv/static/.*(js|css|png|jpeg|jpg|gif|svg)$",
-      ~r"priv/gettext/.*(po)$",
-      ~r"lib/empex_demo_web/(live|views)/.*(ex)$",
-      ~r"lib/empex_demo_web/templates/.*(eex)$"
-    ]
-  ]
+# config :empex_demo, EmpexDemoWeb.Endpoint,
+# live_reload: [
+# patterns: [
+# ~r"priv/static/.*(js|css|png|jpeg|jpg|gif|svg)$",
+# ~r"priv/gettext/.*(po)$",
+# ~r"lib/empex_demo_web/(live|views)/.*(ex)$",
+# ~r"lib/empex_demo_web/templates/.*(eex)$"
+# ]
+# ]
 
 # Do not include metadata nor timestamps in development logs
 config :logger, :console, format: "[$level] $message\n"

@@ -1,5 +1,7 @@
 # Source for various talks I've given, ordered from most recent
 
+* [A Funny Thing Happened On The Way To The Phoenix](2022-05-EMPEX-MTX-a-funny-thing-happened-on-the-way-to-the-phoenix.pdf). EMPEX MTN 2022, 6 May 2022.
+
 * [Bandit on the loose! - Networking in Elixir demystified](2021-10-ElixirConf-bandit-on-the-loose.pdf). ElixirConf 2021, 14 Oct 2021. Video available [here](https://www.youtube.com/watch?v=ZLjWyanLHuk)
 
 * [Much Nerves - A Hello World For The Embedded World](2020-07-Toronto-Elixir-Night-Nerves.pdf). Toronto Elixir Night,

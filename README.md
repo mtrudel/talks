@@ -1,5 +1,8 @@
 # Source for various talks I've given, ordered from most recent
 
+* [Assertions & Operators & Atoms & Macros](2022-06-Toronto-Elixir-Night-Ex-Matchers-Preview.pdf). Toronto Elixir Night,
+  15 June 2022 ([Event Page](https://www.meetup.com/TorontoElixir/events/286284941/)).
+
 * [A Funny Thing Happened On The Way To The Phoenix](2022-05-EMPEX-MTX-a-funny-thing-happened-on-the-way-to-the-phoenix.pdf). EMPEX MTN 2022, 6 May 2022. Video available [here](https://www.youtube.com/watch?v=FtZBTUvRt0g)
 
 * [Bandit on the loose! - Networking in Elixir demystified](2021-10-ElixirConf-bandit-on-the-loose.pdf). ElixirConf 2021, 14 Oct 2021. Video available [here](https://www.youtube.com/watch?v=ZLjWyanLHuk)

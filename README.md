@@ -1,5 +1,7 @@
 # Source for various talks I've given, ordered from most recent
 
+* [Phoenix Beyond Cowboy](2023-04-21-ElixirConfEU-Phoenix-Beyond-Cowboy.pdf). ElixirConf EU 2023, 21 Apr 2023.
+
 * [Assertions & Operators & Atoms & Macros](2022-06-Toronto-Elixir-Night-Machete-Preview.pdf). Toronto Elixir Night,
   15 June 2022 ([Event Page](https://www.meetup.com/TorontoElixir/events/286284941/)).
 

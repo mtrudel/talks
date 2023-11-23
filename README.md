@@ -1,5 +1,7 @@
 # Source for various talks I've given, ordered from most recent
 
+* [Started From The Bottom, Now We're Here / Working In Public](2023-11-22-Started-From-The-Bottom-Now-Were-Here.pdf). Toronto Elixir Night, 22 Nov 2023 ([Event Page](https://www.meetup.com/torontoelixir/events/297046977/)).
+
 * [Phoenix Beyond Cowboy](2023-04-21-ElixirConfEU-Phoenix-Beyond-Cowboy.pdf). ElixirConf EU 2023, 21 Apr 2023. Video avaialble [here](https://youtu.be/usKLrYl4zlY)
 
 * [Assertions & Operators & Atoms & Macros](2022-06-Toronto-Elixir-Night-Machete-Preview.pdf). Toronto Elixir Night,

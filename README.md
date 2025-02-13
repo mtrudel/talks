@@ -1,5 +1,7 @@
 # Source for various talks I've given, ordered from most recent
 
+* [Enstabilize & Quickify Yer Tests To Do Better Stuff](2025-02-12-Enstabilize-and-Quickify-Yer-Tests-To-Do-Better-Stuff.pdf). Toronto Elixir Night, 12 Jan 2025 ([Event Page](https://www.meetup.com/torontoelixir/events/305862831/)).
+
 * [Back To Basics With Processes](2024-06-05-Back-To-Basics-With-Processes.pdf). Toronto Elixir Night, 5 Jun 2024 ([Event Page](https://www.meetup.com/torontoelixir/events/301317247/)).
 
 * [Started From The Bottom, Now We're Here / Working In Public](2023-11-22-Started-From-The-Bottom-Now-Were-Here.pdf). Toronto Elixir Night, 22 Nov 2023 ([Event Page](https://www.meetup.com/torontoelixir/events/297046977/)).

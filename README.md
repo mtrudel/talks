@@ -1,5 +1,7 @@
 # Source for various talks I've given, ordered from most recent
 
+* [Let Elixir Into Your Home(Kit)](2026-03-CodeBEAM-Vancouver-Let-Elixir-Into-Your-HomeKit.pdf). Code BEAM Vancouver, 23 Mar 2026 ([Event Page](https://codebeamvancouver.com)).
+
 * [Enstabilize & Quickify Yer Tests To Do Better Stuff](2025-02-12-Enstabilize-and-Quickify-Yer-Tests-To-Do-Better-Stuff.pdf). Toronto Elixir Night, 12 Jan 2025 ([Event Page](https://www.meetup.com/torontoelixir/events/305862831/)).
 
 * [Back To Basics With Processes](2024-06-05-Back-To-Basics-With-Processes.pdf). Toronto Elixir Night, 5 Jun 2024 ([Event Page](https://www.meetup.com/torontoelixir/events/301317247/)).
